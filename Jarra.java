@@ -31,7 +31,3 @@ this.cantidad=0;
  // Comentario incluido para pruebas
  System.out.println("Aqui escribimos todos");
  }
-<<<<<<< HEAD
-
-=======
->>>>>>> 702c70d4a8ec21366031a50e7fcd0d0ebbe06f14
