@@ -26,6 +26,7 @@ public void vacia() {
 this.cantidad=0;
 }
  // 3
+
  public void metodoComunitario(){
  // Comentario incluido para pruebas
  System.out.println("Aqui escribimos todos");
